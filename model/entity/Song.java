@@ -37,11 +37,4 @@ public class Song {
 }
 
 
-//Performer name length must be between 3 and 20 characters (inclusive of 3 and 20).
-
-//Title length must be between 2 and 20 characters (inclusive of 2 and 20).
-
-//The duration (in seconds) must be a positive number
-
-//The Date that cannot be in the future
 
